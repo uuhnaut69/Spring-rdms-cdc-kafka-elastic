@@ -27,7 +27,7 @@ confluent-hub install confluentinc/kafka-connect-elasticsearch:latest
 ```
 confluent start
 ```
-3. Open Postman, make POST request with following body to create Connector
+3. Open Postman, make POST request http://localhost:8083/connectors with following body to create Connector
   - Mysql Connector
   ```
   {
