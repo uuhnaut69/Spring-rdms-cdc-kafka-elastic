@@ -1,4 +1,4 @@
-package com.uuhnaut69.SpringCdcKafkaElastic.DTO;
+package com.uuhnaut69.SpringCdcKafkaElastic.Model;
 
 /**
  * @author uuhnaut
