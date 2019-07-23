@@ -1,4 +1,4 @@
-# Sample Project integrate Spring RDMS CDC Kafka Elasticsearch
+# End to End Spring -> CDC -> Kafka -> Elasticsearch
 
 Step:
 1. Enable binlog MySql via edit my.cnf
